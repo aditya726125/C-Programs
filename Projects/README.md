@@ -1,4 +1,4 @@
-#Project Name: Personal Finance Manager
+# Project Name: Personal Finance Manager
 
 Project Introduction
 A console-based application developed in C, designed to help users manage their personal finances efficiently.
